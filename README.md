@@ -3,7 +3,7 @@
 
 
 <p>
-A Front-end Developer that is learning from every day. To know more about me, visit: <a href="http://www.gokhanyaka.com/">Gokhan Yaka</a>.
+A Front-end Developer that is learning from day by day. To know more about me, visit: <a href="http://www.gokhanyaka.com/">Gokhan Yaka</a>.
 </p>
 
 
