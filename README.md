@@ -20,9 +20,11 @@ My interests are in Front End Engineering, and I love to create beautiful and pe
    const location =
      'Amsterdam, Netherlands';
 
-   let currently = {
-       studying: (`Javascript`);
-       tinkering: (`React`);
+   let workingOn = {
+       Projects: {
+       `Responsive Full WebBlog`; 
+       'JavaScript Calculator';
+       } tinkering: (`React`);
       }
    break
  ```
